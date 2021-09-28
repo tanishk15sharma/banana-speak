@@ -36,6 +36,7 @@
     font-size: x-large;
     font-family: 'Gluten', cursive;
     font-weight: bolder;
+    cursor: pointer;
 }
 .outbox {
     margin-left: 15rem;
